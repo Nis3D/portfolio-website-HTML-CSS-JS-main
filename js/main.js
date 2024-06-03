@@ -58,7 +58,7 @@ sr.reveal('.social_icons',{delay: 200})
 sr.reveal('.featured-image',{delay: 300})
 
 
-/* -- PROJECT BOX -- */
+ /* -- PROJECT BOX -- */
 sr.reveal('.project-box',{interval: 200})
 
 /* -- HEADINGS -- */

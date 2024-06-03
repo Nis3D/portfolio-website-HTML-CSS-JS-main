@@ -1,4 +1,4 @@
-/* ----- POPPINS FONT Link ----- */
+ /*POPPINS FONT Link*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
 /* ----- VARIABLES ----- */
@@ -642,4 +642,4 @@ footer{
     .input-field{
         width: 100%;
     }
-}
+} 
